@@ -1,0 +1,6 @@
+[
+  { "id":"tap_plus_1", "type":"tap_flat", "value":1, "cost":50 },
+  { "id":"tap_plus_5", "type":"tap_flat", "value":5, "cost":250 },
+  { "id":"neural_overclock", "type":"global_mult", "value":0.25, "cost":5000 },
+  { "id":"gen_bot_mk1_25", "type":"gen_mult", "target":"bot_mk1", "value":0.25, "cost":2000 }
+]

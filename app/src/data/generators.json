@@ -1,0 +1,10 @@
+[
+  { "id":"bot_mk1","name":"Auto-Bot Mk1","baseCps":1,"baseCost":15,"growth":1.15 },
+  { "id":"assembler_arm","name":"Assembler Arm","baseCps":8,"baseCost":120,"growth":1.15 },
+  { "id":"micro_fab","name":"Micro-Fab Cell","baseCps":45,"baseCost":1100,"growth":1.13 },
+  { "id":"drone_swarm","name":"Drone Swarm","baseCps":260,"baseCost":8500,"growth":1.13 },
+  { "id":"fusion_pylon","name":"Fusion Pylon","baseCps":1400,"baseCost":55000,"growth":1.12 },
+  { "id":"grid_node","name":"City Grid Node","baseCps":7500,"baseCost":400000,"growth":1.12 },
+  { "id":"orbital","name":"Orbital Collector","baseCps":40000,"baseCost":3000000,"growth":1.11 },
+  { "id":"stellar","name":"Stellar Harvester","baseCps":200000,"baseCost":20000000,"growth":1.11 }
+]
